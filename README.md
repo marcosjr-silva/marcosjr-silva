@@ -1,4 +1,4 @@
-Olá!! Eu sou o Marcos Aurélio
+Olá! Eu sou o Marcos Aurélio
 
 - 📈 Hoje trabalho como Contador
 - 🌱 Estudando Business Intelligence
